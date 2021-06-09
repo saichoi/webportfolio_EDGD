@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+img {
+    border: 0;
+    display: block;
+}
+
+
+#wrap,#m_wrap {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+#window {
+    transition-delay: 0.5s;
+}
+
+#mean,
+#kor,
+#name,
+#college,
+#tel,#m_mean,#m_kor,#m_name,#m_college,#mo_tel {
+    font-family: 'Noto Serif KR', serif;
+}
+
+
